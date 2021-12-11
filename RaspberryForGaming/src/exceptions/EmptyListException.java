@@ -1,4 +1,4 @@
-package reader;
+package exceptions;
 
 public class EmptyListException extends Exception {
 

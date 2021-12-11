@@ -5,6 +5,8 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import exceptions.EmptyListException;
+
 public class TextFileReader implements IFileReader {
 
 	private File textFile;
